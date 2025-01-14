@@ -1,0 +1,24 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: F:/Vivado/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot AutomaticWashingMachineTB_behav xil_defaultlib.AutomaticWashingMachineTB xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ControlUnit
+Compiling module xil_defaultlib.TemperatureControl
+Compiling module xil_defaultlib.WaterControl
+Compiling module xil_defaultlib.LoadSensing
+Compiling module xil_defaultlib.CycleCustomization
+Compiling module xil_defaultlib.SmartSensing
+Compiling module xil_defaultlib.ChildLock
+Compiling module xil_defaultlib.AutoClean
+Compiling module xil_defaultlib.EnergyMonitor
+Compiling module xil_defaultlib.AutomaticWashingMachine
+Compiling module xil_defaultlib.AutomaticWashingMachineTB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot AutomaticWashingMachineTB_behav

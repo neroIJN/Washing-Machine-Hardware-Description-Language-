@@ -1,0 +1,16 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sim_1/new/AutomaticWashingMachineTB.v,1730984213,verilog,,,,AutomaticWashingMachineTB,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/AutoClean.v,1730649896,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/AutomaticWashingMachine.v,,AutoClean,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/AutomaticWashingMachine.v,1730983793,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/ChildLock.v,,AutomaticWashingMachine,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/ChildLock.v,1730649820,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/ControlUnit.v,,ChildLock,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/ControlUnit.v,1730983772,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/CycleCustomization.v,,ControlUnit,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/CycleCustomization.v,1731065016,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/EnergyMonitor.v,,CycleCustomization,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/EnergyMonitor.v,1730650000,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/LoadSensing.v,,EnergyMonitor,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/LoadSensing.v,1731065016,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/SmartSensing.v,,LoadSensing,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/SmartSensing.v,1730649720,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/TemperatureControl.v,,SmartSensing,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/TemperatureControl.v,1731065016,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/WaterControl.v,,TemperatureControl,,,,,,,,
+C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sources_1/new/WaterControl.v,1731063249,verilog,,C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sim_1/new/AutomaticWashingMachineTB.v,,WaterControl,,,,,,,,

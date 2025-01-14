@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Nov  8 16:03:09 2024
+# Process ID: 12240
+# Current directory: C:/Users/niros/Desktop/nemal/Washing_Pro
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12180 C:\Users\niros\Desktop\nemal\Washing_Pro\Washing_Pro.xpr
+# Log file: C:/Users/niros/Desktop/nemal/Washing_Pro/vivado.log
+# Journal file: C:/Users/niros/Desktop/nemal/Washing_Pro\vivado.jou
+# Running On        :NeroIJN
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16487 MB
+# Swap memory       :15569 MB
+# Total Virtual     :32057 MB
+# Available Virtual :19692 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source AutomaticWashingMachineTB.tcl
+close_sim

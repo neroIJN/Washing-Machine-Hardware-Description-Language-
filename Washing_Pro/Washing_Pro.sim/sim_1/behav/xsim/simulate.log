@@ -1,0 +1,173 @@
+Time resolution is 1 ps
+///// Starting the washing machine simulation...
+==== Initializing washing cycle at time                10000
+Load Sensing: Detecting load weight...
+##### Smart Sensing: Detergent and load balance OK at time                25000
+##### Smart Sensing: Detergent and load balance OK at time                35000
+##### Smart Sensing: Detergent and load balance OK at time                45000
+##### Smart Sensing: Detergent and load balance OK at time                55000
+Water Control: Filling water to the required level...
+##### Smart Sensing: Detergent and load balance OK at time                65000
+##### Load Sensing: Load ready at time                75000
+##### Smart Sensing: Detergent and load balance OK at time                75000
+##### Load Sensing: Load ready at time                85000
+##### Water Control: Water level ready at time                85000
+##### Smart Sensing: Detergent and load balance OK at time                85000
+Water Control: Water level is ready at time                90000
+##### Load Sensing: Load ready at time                95000
+##### Water Control: Water level ready at time                95000
+##### Smart Sensing: Detergent and load balance OK at time                95000
+Temperature Control: Heating water to the desired temperature...
+##### Load Sensing: Load ready at time               105000
+##### Water Control: Water level ready at time               105000
+##### Temperature Control: Temperature reached at time               105000
+##### Smart Sensing: Detergent and load balance OK at time               105000
+///// WASH phase active at time               115000
+##### Load Sensing: Load ready at time               115000
+##### Water Control: Water level ready at time               115000
+##### Temperature Control: Temperature reached at time               115000
+##### Smart Sensing: Detergent and load balance OK at time               115000
+///// RINSE phase active at time               125000
+##### Load Sensing: Load ready at time               125000
+##### Water Control: Water level ready at time               125000
+##### Temperature Control: Temperature reached at time               125000
+##### Smart Sensing: Detergent and load balance OK at time               125000
+///// SPIN phase active at time               135000
+##### Load Sensing: Load ready at time               135000
+##### Water Control: Water level ready at time               135000
+##### Temperature Control: Temperature reached at time               135000
+##### Smart Sensing: Detergent and load balance OK at time               135000
+Temperature Control: Water temperature is ready at time               140000
+##### Load Sensing: Load ready at time               145000
+##### Water Control: Water level ready at time               145000
+##### Temperature Control: Temperature reached at time               145000
+##### Smart Sensing: Detergent and load balance OK at time               145000
+///// Washing cycle completed at time               145000
+Smart Sensing: Checking detergent and load balance...
+##### Load Sensing: Load ready at time               155000
+##### Water Control: Water level ready at time               155000
+##### Temperature Control: Temperature reached at time               155000
+##### Smart Sensing: Detergent and load balance OK at time               155000
+///// WASH phase active at time               165000
+##### Load Sensing: Load ready at time               165000
+##### Water Control: Water level ready at time               165000
+##### Temperature Control: Temperature reached at time               165000
+##### Smart Sensing: Detergent and load balance OK at time               165000
+Smart Sensing: Detergent and load balance are OK at time               170000
+///// RINSE phase active at time               175000
+##### Load Sensing: Load ready at time               175000
+##### Water Control: Water level ready at time               175000
+##### Temperature Control: Temperature reached at time               175000
+##### Smart Sensing: Detergent and load balance OK at time               175000
+==== Wash Cycle: Starting wash cycle in Quick mode...
+///// SPIN phase active at time               185000
+##### Load Sensing: Load ready at time               185000
+##### Water Control: Water level ready at time               185000
+##### Temperature Control: Temperature reached at time               185000
+##### Smart Sensing: Detergent and load balance OK at time               185000
+##### Load Sensing: Load ready at time               195000
+##### Water Control: Water level ready at time               195000
+##### Temperature Control: Temperature reached at time               195000
+##### Smart Sensing: Detergent and load balance OK at time               195000
+///// Washing cycle completed at time               195000
+##### Load Sensing: Load ready at time               205000
+##### Water Control: Water level ready at time               205000
+##### Temperature Control: Temperature reached at time               205000
+##### Smart Sensing: Detergent and load balance OK at time               205000
+///// WASH phase active at time               215000
+##### Load Sensing: Load ready at time               215000
+##### Water Control: Water level ready at time               215000
+##### Temperature Control: Temperature reached at time               215000
+##### Smart Sensing: Detergent and load balance OK at time               215000
+///// RINSE phase active at time               225000
+##### Load Sensing: Load ready at time               225000
+##### Water Control: Water level ready at time               225000
+##### Temperature Control: Temperature reached at time               225000
+##### Smart Sensing: Detergent and load balance OK at time               225000
+///// SPIN phase active at time               235000
+##### Load Sensing: Load ready at time               235000
+##### Water Control: Water level ready at time               235000
+##### Temperature Control: Temperature reached at time               235000
+##### Smart Sensing: Detergent and load balance OK at time               235000
+Wash Cycle: Washing in progress...
+##### Load Sensing: Load ready at time               245000
+##### Water Control: Water level ready at time               245000
+##### Temperature Control: Temperature reached at time               245000
+##### Smart Sensing: Detergent and load balance OK at time               245000
+///// Washing cycle completed at time               245000
+==== Rinse Cycle: Starting rinse cycle...
+##### Load Sensing: Load ready at time               255000
+##### Water Control: Water level ready at time               255000
+##### Temperature Control: Temperature reached at time               255000
+##### Smart Sensing: Detergent and load balance OK at time               255000
+///// WASH phase active at time               265000
+##### Load Sensing: Load ready at time               265000
+##### Water Control: Water level ready at time               265000
+##### Temperature Control: Temperature reached at time               265000
+##### Smart Sensing: Detergent and load balance OK at time               265000
+///// RINSE phase active at time               275000
+##### Load Sensing: Load ready at time               275000
+##### Water Control: Water level ready at time               275000
+##### Temperature Control: Temperature reached at time               275000
+##### Smart Sensing: Detergent and load balance OK at time               275000
+Rinse Cycle: Rinsing in progress...
+///// SPIN phase active at time               285000
+##### Load Sensing: Load ready at time               285000
+##### Water Control: Water level ready at time               285000
+##### Temperature Control: Temperature reached at time               285000
+##### Smart Sensing: Detergent and load balance OK at time               285000
+==== Spin Cycle: Starting spin cycle...
+##### Load Sensing: Load ready at time               295000
+##### Water Control: Water level ready at time               295000
+##### Temperature Control: Temperature reached at time               295000
+##### Smart Sensing: Detergent and load balance OK at time               295000
+///// Washing cycle completed at time               295000
+##### Load Sensing: Load ready at time               305000
+##### Water Control: Water level ready at time               305000
+##### Temperature Control: Temperature reached at time               305000
+##### Smart Sensing: Detergent and load balance OK at time               305000
+Spin Cycle: Spinning in progress...
+///// WASH phase active at time               315000
+##### Load Sensing: Load ready at time               315000
+##### Water Control: Water level ready at time               315000
+##### Temperature Control: Temperature reached at time               315000
+##### Smart Sensing: Detergent and load balance OK at time               315000
+==== Auto-Clean: Starting auto-cleaning...
+///// RINSE phase active at time               325000
+##### Load Sensing: Load ready at time               325000
+##### Water Control: Water level ready at time               325000
+##### Temperature Control: Temperature reached at time               325000
+##### Smart Sensing: Detergent and load balance OK at time               325000
+///// SPIN phase active at time               335000
+##### Load Sensing: Load ready at time               335000
+##### Water Control: Water level ready at time               335000
+##### Temperature Control: Temperature reached at time               335000
+##### Smart Sensing: Detergent and load balance OK at time               335000
+##### Load Sensing: Load ready at time               345000
+##### Water Control: Water level ready at time               345000
+##### Temperature Control: Temperature reached at time               345000
+##### Smart Sensing: Detergent and load balance OK at time               345000
+///// Washing cycle completed at time               345000
+##### Load Sensing: Load ready at time               355000
+##### Water Control: Water level ready at time               355000
+##### Temperature Control: Temperature reached at time               355000
+##### Smart Sensing: Detergent and load balance OK at time               355000
+///// WASH phase active at time               365000
+##### Load Sensing: Load ready at time               365000
+##### Water Control: Water level ready at time               365000
+##### Temperature Control: Temperature reached at time               365000
+##### Smart Sensing: Detergent and load balance OK at time               365000
+///// RINSE phase active at time               375000
+##### Load Sensing: Load ready at time               375000
+##### Water Control: Water level ready at time               375000
+##### Temperature Control: Temperature reached at time               375000
+##### Smart Sensing: Detergent and load balance OK at time               375000
+///// SPIN phase active at time               385000
+##### Load Sensing: Load ready at time               385000
+##### Water Control: Water level ready at time               385000
+##### Temperature Control: Temperature reached at time               385000
+##### Smart Sensing: Detergent and load balance OK at time               385000
+==== Washing cycle completed at time               385000
+==== Total energy consumed:  72 units
+==== Ending simulation at time               395000
+$finish called at time : 395 ns : File "C:/Users/niros/Desktop/nemal/Washing_Pro/Washing_Pro.srcs/sim_1/new/AutomaticWashingMachineTB.v" Line 85
